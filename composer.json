@@ -11,8 +11,7 @@
         }
     ],
     "require": {
-        "fabpot/goutte": "~4.0",
-        "symfony/event-dispatcher": "~5.1"
+        "fabpot/goutte": "~4.0"
     },
     "autoload": {
         "psr-4": {
